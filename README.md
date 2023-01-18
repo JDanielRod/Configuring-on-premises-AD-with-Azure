@@ -52,7 +52,7 @@ Going back to DC-1, install Active Directory Domain Services through the Server 
 <p>
 </p>
 <br />
-Great! Now we're going to create some Organizational Units(OU). Go to Active Directory Users and Computers and create two Organizational Units called, "_EMPLOYEES" and "_ADMINS"
+Great! Now we're going to create some Organizational Units(OU). Go to Active Directory Users and Computers and create two Organizational Units called, "_EMPLOYEES" and "_ADMINS". 
 <p>
 <img src="https://imgur.com/RMAgE4D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
