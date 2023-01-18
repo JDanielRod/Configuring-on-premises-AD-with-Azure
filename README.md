@@ -42,11 +42,14 @@ Observe the ping on Client-1, notice that the request is longer timing out. Conn
 </p>
 <br />
 
+Going back to DC-1, install Active Directory Domain Services through the Server Manager. After that, we're going to do some post-deployment configuration and promote the Server as a Domain Controller. Create a new forest and name it my.domain.com. Restart DC-1 and login in as the user mydomain.com\labuser.
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/lJIhDfB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<img src="https://imgur.com/any763P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://imgur.com/uhUiU6N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
 </p>
 <br />
 
