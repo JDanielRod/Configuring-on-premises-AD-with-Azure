@@ -31,12 +31,13 @@ What we'll be doing is creating a virtual network using Azure and within that ne
 </p>
 <br />
 
-Next, we're going to ensure connectivity between the client and domain controller. Connect to Client-1 using RDP and ping DC-1's private ip address using ping -t x.x.x.x . This command executes a perpetual ping. Notice that the request is timing out. We need enable ICMPv4 traffic in on the local Windows firewall on DC-1. Enable the one highlighted and the one below it. Observe the ping on Client-1, notice that the request is longer timing out. Connectivity is established.
+Next, we're going to ensure connectivity between the client and domain controller. Connect to Client-1 using RDP and ping DC-1's private ip address using ping -t x.x.x.x . This command executes a perpetual ping. Notice that the request is timing out. We need enable ICMPv4 traffic in on the local Windows firewall on DC-1. Enable the one highlighted and the one below it.
 <p>
 <img src="https://imgur.com/uSRLJZJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <img src="https://imgur.com/lAUQ37U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
+Observe the ping on Client-1, notice that the request is longer timing out. Connectivity is established.
 <img src="https://imgur.com/O25E5Xf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
