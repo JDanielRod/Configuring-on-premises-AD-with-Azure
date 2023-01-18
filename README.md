@@ -69,7 +69,7 @@ Once we've done that, create a new employee named "John Doe" with the username o
 </p>
 <br />
 
-Now we're going to join "Client-1" to the domain. On the Azure Portal, change Client-1's DNS settings to DC-1's Private IP address. Restart Client-1. Login back in as labuser to "Client-1" and join it to the domain. Go to settings-> Rename this PC(advanced). When prompted, input the username and password of the new user created earlier.
+Now we're going to join "Client-1" to the domain. On the Azure Portal, change Client-1's DNS settings to DC-1's Private IP address. Restart Client-1. Login back in as labuser to "Client-1" and join it to the domain. Go to settings-> Rename this PC(advanced). When prompted, input the username and password of the new user created earlier. A pop up should appear reading "Welcome to the domain".
 <p>
 <img src="https://imgur.com/8fBHMyc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -78,6 +78,7 @@ Now we're going to join "Client-1" to the domain. On the Azure Portal, change Cl
 </p>
 <br />
 
+Perfect! Now
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
