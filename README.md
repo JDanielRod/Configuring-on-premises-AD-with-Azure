@@ -78,20 +78,19 @@ Now we're going to join "Client-1" to the domain. On the Azure Portal, change Cl
 </p>
 <br />
 
-Perfect! Now
+Perfect! Now lets verify Client-1 is on the domain by logging back into DC-1, going to Active Directory Users and Computers, and checking the "Computers" folder. We should see Client-1 listed.
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/E1MjuCO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
+Next, log into Client-1 as mydomain.com\john_admin, or whatever username you created. What we're going to do is allow normal domain users to remote desktop into Client-1. Right-click the Windows button, select System-> Remote Desktop-> Select users that can remotely access this PC. Select add and type "Domain Users" and click "Check names".
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/eNSUgFC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
