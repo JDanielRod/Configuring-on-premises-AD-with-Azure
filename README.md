@@ -94,10 +94,11 @@ Next, log into Client-1 as mydomain.com\john_admin, or whatever username you cre
 </p>
 <br />
 
-Almost done! Login DC-1 and open Powershell_ise as an administator. Create a new file in Powershell, then go here: https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1 and copy and paste the script into it. Run the script. Observe the accounts being created.
+Almost done! Login DC-1 and open Powershell_ise as an administator. Create a new file in Powershell, then go here: https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1 and copy and paste the script into it. Run the script. Observe the accounts being created. When the accounts are finished being created, go to "Active Directory Users and Computers" and open up the "_EMPLOYEES" OU and notice the list of users.
 <p>
-<img src="hhttps://imgur.com/2kCt6fW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/2kCt6fW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<img src="https://imgur.com/Xskg6x0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 </p>
 <br />
