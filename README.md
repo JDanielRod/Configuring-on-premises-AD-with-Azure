@@ -103,9 +103,9 @@ Almost done! Login DC-1 and open Powershell_ise as an administator. Create a new
 </p>
 <br />
 
-Almost done! Login DC-1 and open Powershell_ise as an administator. Create a new file in Powershell, then go here: https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1 and copy and paste the script into it. Run the script.
+Lastly, pick one of these users and attempt to log into Client-1 with one of these accounts. The password for the accounts can be found in the script. Do not forget to add mydomain.com\ then the username. Hopefully you were successful and enjoyed this tutorial :)
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Yr1UpUY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
